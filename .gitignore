@@ -1,0 +1,6 @@
+# Figma / design exports
+*.fig~
+
+# OS files
+.DS_Store
+Thumbs.db
